@@ -3,12 +3,12 @@ This repo is for notes on how I setup my Mac for development (iOS, Swift, Python
 
 ## Basic setup
 ### Settings
-* Trackpad Settings
+* **Trackpad Settings**
   * Adjust tracking speed to you liking
   * Set the Click to "Light"
   * Enable "Tap to click"
   * Enable "App Exposé" in More Gestures
-* Accessibility
+* **Accessibility**
   * Enable “Use trackpad for dragging” and set it as “Three Finger Drag”
 
 ## Apps
