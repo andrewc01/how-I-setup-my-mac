@@ -2,7 +2,7 @@
 This repo is for notes on how I setup my Mac for development (iOS, Swift, Python, Machine Learning, etc.).
 
 ## Contents
-* [Basic Setup](##basic-setup)
+* [##basic-setup](https://github.com/andrewc01/how-I-setup-my-mac?tab=readme-ov-file#basic-setup)
 * [Apps](##apps)
   * [App Store](###Apps-I-download-from-Apple's-Mac-App-Store)
   * [Homebrew](###homebrew)
