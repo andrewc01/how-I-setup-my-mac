@@ -1,6 +1,13 @@
 # How I setup my Mac.
 This repo is for notes on how I setup my Mac for development (iOS, Swift, Python, Machine Learning, etc.).
 
+## Contents
+* [Basic Setup](##basic-setup)
+* [Apps](##apps)
+  * [App Store](###Apps-I-download-from-Apple's-Mac-App-Store)
+  * [Homebrew](###homebrew)
+* [Conda Envionment](##conda-environment)
+
 ## Basic setup
 ### Settings
 * **Trackpad Settings**
@@ -20,8 +27,8 @@ This repo is for notes on how I setup my Mac for development (iOS, Swift, Python
  * Numbers
  * Pages
  * Things 3
-### [Homebrew](https://brew.sh) - this is where I get most of my stuff
- * Homebrew is a package manager I use.
+### [Homebrew](https://brew.sh)
+ * Homebrew is a package manager I use. This is where I get most of my stuff
  * Miniconda: `brew install --cask miniconda`
  * Visual Studio Code: `brew install --cask visual-studio-code`
  * Signal Messenger: `brew install --cask signal`
