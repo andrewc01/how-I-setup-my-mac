@@ -1,13 +1,6 @@
 # How I setup my Mac.
 This repo is for notes on how I setup my Mac for development (iOS, Swift, Python, Machine Learning, etc.).
 
-## Contents
-* [##basic-setup](https://github.com/andrewc01/how-I-setup-my-mac?tab=readme-ov-file#basic-setup)
-* [Apps](##apps)
-  * [App Store](###Apps-I-download-from-Apple's-Mac-App-Store)
-  * [Homebrew](###homebrew)
-* [Conda Envionment](##conda-environment)
-
 ## Basic setup
 ### Settings
 * **Trackpad Settings**
