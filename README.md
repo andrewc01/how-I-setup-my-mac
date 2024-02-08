@@ -12,7 +12,7 @@ This repo is for notes on how I setup my Mac for development (iOS, Swift, Python
   * Enable “Use trackpad for dragging” and set it as “Three Finger Drag”
 
 ## Apps
-### Apps I download from Apple's Mac App Store
+### Mac App Store
  * Xcode (for iOS, macOS development, also includes *Xcode Command Line Tools*)
  * TestFlight
  * Final Cut Pro
