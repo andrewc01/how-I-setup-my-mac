@@ -31,6 +31,7 @@ This repo is for notes on how I setup my Mac for development (iOS, Swift, Python
  * Microsoft Powerpoint: `brew install --cask microsoft-powerpoint`
  * VMWare Fusion: `brew install --cask vmware-fusion`
  * Google Chrome: `brew install --cask google-chrome`
+ * Obsidian: `brew install --cask obsidian`
 
 ## Conda Environment
 
