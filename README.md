@@ -32,8 +32,5 @@ This repo is for notes on how I setup my Mac for development (iOS, Swift, Python
  * VMWare Fusion: `brew install --cask vmware-fusion`
  * Google Chrome: `brew install --cask google-chrome`
  * Obsidian: `brew install --cask obsidian`
- * Cursor: `brew install --cask cursor`
- * Warp: `brew install --cask warp`
-
-## Conda Environment
+ * Docker: `brew install --cask docker`
 
