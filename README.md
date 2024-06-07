@@ -33,4 +33,5 @@ This repo is for notes on how I setup my Mac for development (iOS, Swift, Python
  * Google Chrome: `brew install --cask google-chrome`
  * Obsidian: `brew install --cask obsidian`
  * Docker: `brew install --cask docker`
+ * Bitwarden: `brew install --cask bitwarden`
 
