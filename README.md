@@ -24,13 +24,11 @@ This repo is for notes on how I setup my Mac for development (iOS, Swift, Python
  * Homebrew is a package manager I use. This is where I get most of my stuff
  * Miniconda: `brew install --cask miniconda`
  * Visual Studio Code: `brew install --cask visual-studio-code`
- * Signal Messenger: `brew install --cask signal`
  * Zoom: `brew install --cask zoom`
  * Microsoft Word: `brew install --cask microsoft-word`
  * Microsoft Excel: `brew install --cask microsoft-excel`
  * Microsoft Powerpoint: `brew install --cask microsoft-powerpoint`
  * VMWare Fusion: `brew install --cask vmware-fusion`
- * Google Chrome: `brew install --cask google-chrome`
  * Obsidian: `brew install --cask obsidian`
  * Docker: `brew install --cask docker`
  * Bitwarden: `brew install --cask bitwarden`
