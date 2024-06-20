@@ -13,7 +13,7 @@ This repo is for notes on how I setup my Mac for development (iOS, Swift, Python
 
 ## Apps
 ### Mac App Store
- * Xcode (for iOS, macOS development, also includes *Xcode Command Line Tools*)
+ * ~Xcode (for iOS, macOS development, also includes *Xcode Command Line Tools*)~ Now I download it via Apple Developer website
  * TestFlight
  * Final Cut Pro
  * Keynote
