@@ -33,4 +33,5 @@ This repo is for notes on how I setup my Mac for development (Swift, Python, Mac
  * Docker: `brew install --cask docker`
  * Bitwarden: `brew install --cask bitwarden`
  * Slack: `brew install --cask slack`
+ * Zotero: `brew install --cask zotero`
 
