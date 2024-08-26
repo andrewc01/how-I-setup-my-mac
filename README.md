@@ -1,5 +1,5 @@
 # How I setup my Mac.
-This repo is for notes on how I setup my Mac for development (iOS, Swift, Python, Machine Learning, etc.).
+This repo is for notes on how I setup my Mac for development (Swift, Python, Machine Learning, etc.).
 
 ## Basic setup
 ### Settings
@@ -32,4 +32,5 @@ This repo is for notes on how I setup my Mac for development (iOS, Swift, Python
  * Obsidian: `brew install --cask obsidian`
  * Docker: `brew install --cask docker`
  * Bitwarden: `brew install --cask bitwarden`
+ * Slack: `brew install --cask slack`
 
