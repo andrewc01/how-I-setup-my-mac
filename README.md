@@ -22,8 +22,6 @@ This repo is for notes on how I setup my Mac for development (Swift, Python, Mac
  * Things 3
 ### [Homebrew](https://brew.sh)
  * Homebrew is a package manager I use. This is where I get most of my stuff
- * Miniconda: `brew install --cask miniconda`
- * Visual Studio Code: `brew install --cask visual-studio-code`
  * Zoom: `brew install --cask zoom`
  * Microsoft Word: `brew install --cask microsoft-word`
  * Microsoft Excel: `brew install --cask microsoft-excel`
