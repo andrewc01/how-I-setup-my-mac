@@ -34,6 +34,7 @@ This repo is for notes on how I setup my Mac for development (Swift, Python, Mac
  * Slack: `brew install --cask slack`
  * LM Studio: `brew install --cask lm-studio`
  * Cursor: `brew install --cask cursor`
+ * Al Dente: `brew install --cask aldente`
 ### From each website
  * Signal: https://signal.org/
  * 1Password: https://1password.com/
