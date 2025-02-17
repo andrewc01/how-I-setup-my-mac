@@ -31,7 +31,6 @@ This repo is for notes on how I setup my Mac for development (Swift, Python, Mac
  * VMWare Fusion: `brew install --cask vmware-fusion`
  * Obsidian: `brew install --cask obsidian`
  * Docker: `brew install --cask docker`
- * Bitwarden: `brew install --cask bitwarden`
  * Slack: `brew install --cask slack`
- * Stats: `brew install stats`
+ * LM Studio: `brew install --cask lm-studio`
 
